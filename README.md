@@ -1,1 +1,2 @@
-# toolsfordatasciencefinalproj
+# Tools for Data Science Final Project
+A data science project that used the Sci-Kit Learn, Seaborn, Matplotlib, and Pandas libraries for Python and the CARET library for R. Performed logistic and linear regressions, and random forest generators using machine learning algorithms. The project required data cleaning, interpretation, visualization, and predictive analytics. Trained a random forest generator to read over 13,000 lines of data about different bean properties and classify unknown beans based on their properties; the model was 92% accurate.
